@@ -5,9 +5,8 @@ const Home = () => {
 		<div>
 			<h1>Home Page</h1>
 
-			<Link href='/blog'>
-				<a>Blog</a>
-			</Link>
+			<Link href='/blog'>Blog</Link>
+			<Link href='/product'>Products</Link>
 		</div>
 	)
 }
