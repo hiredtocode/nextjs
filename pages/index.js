@@ -14,6 +14,7 @@ const Home = () => {
 			<h1>Home Page</h1>
 
 			<Link href='/blog'>Blog</Link>
+			<Link href='/users'>Users</Link>
 			<Link href='/product'>Products</Link>
 			<button onClick={onPlaceOrder}>Place order</button>
 		</div>
