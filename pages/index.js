@@ -16,6 +16,7 @@ const Home = () => {
 			<Link href='/blog'>Blog</Link>
 			<Link href='/users'>Users</Link>
 			<Link href='/product'>Products</Link>
+			<Link href='/posts'>Posts</Link>
 			<button onClick={onPlaceOrder}>Place order</button>
 		</div>
 	)
